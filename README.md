@@ -3,3 +3,5 @@ Utilizing NLP &amp; deep learning for sentiment analysis on Twitter. Real-time a
 
 Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
 It contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment .
+
+Research Papers referred for Literature Survey: https://drive.google.com/drive/folders/17JmflI1WRcGtSlcL102Q5_--pA-IwxzZ?usp=sharing
